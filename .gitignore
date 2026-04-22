@@ -1,3 +1,12 @@
 # Ignore node_modules directory
-
 /node_modules
+# Ignore build output
+/build
+# Ignore environment variable files.env
+# Ignore log files/logs/logs
+# Ignore coverage reports/coverage
+/coverage
+# Ignore IDE specific files
+/.idea
+# gitignore file for Visual Studio Code
+.vscode/
